@@ -1,0 +1,232 @@
+[33mcommit 31c6b1939b87abd920467cb3eb8cdbc6aaaf58fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2a2ecd2 d43fecb
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Fri Mar 12 08:14:24 2021 +0700
+
+    Merge pull request #22 from gieart87/feature/21-filter-products-by-category-and-brand
+    
+    products: filter by category and brand
+
+[33mcommit 2a2ecd263a5b1ade51ba27119c879503fff3f568[m
+Merge: c4bcb7c e236af4
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Fri Mar 12 08:12:35 2021 +0700
+
+    Merge pull request #21 from gieart87/feature/20-show-nested-categories-and-brands
+    
+    products: show nested categories and brands
+
+[33mcommit d43fecb546c86d2083de3e0b7ae44942a06e6f75[m[33m ([m[1;31morigin/feature/21-filter-products-by-category-and-brand[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Fri Mar 12 08:11:29 2021 +0700
+
+    products: filter by category and brand
+
+[33mcommit e236af413b57ff6ee069c6523500be3f9fd1f3e7[m[33m ([m[1;31morigin/feature/20-show-nested-categories-and-brands[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Fri Mar 12 07:17:00 2021 +0700
+
+    products: show nested categories and brands
+
+[33mcommit c4bcb7ccf8bb7d51d91cc0bf9c2e917abec07d70[m
+Merge: 7cd7d55 ed80a4d
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Fri Mar 5 13:11:14 2021 +0700
+
+    Merge pull request #20 from gieart87/feature/show-product-list
+    
+    products: update the per page number
+
+[33mcommit ed80a4def5da2b2ad3aec6386525f466f5d48eb6[m[33m ([m[1;31morigin/feature/show-product-list[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Fri Mar 5 13:10:43 2021 +0700
+
+    products: update the per page number
+
+[33mcommit 7cd7d55a14e1defba335123b489b6c235bb1f60f[m
+Merge: 649690e 1339aba
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Fri Mar 5 10:13:22 2021 +0700
+
+    Merge pull request #19 from gieart87/feature/show-product-list
+    
+    products: show the products list
+
+[33mcommit 1339aba41632034fcdb2307dda9496b472b314b9[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Fri Mar 5 10:05:27 2021 +0700
+
+    products: show the products list
+
+[33mcommit 649690ed9bbe0b0553c3191ac4319b0dd34ff08b[m
+Merge: 7002cf2 9f63b2f
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sat Feb 6 07:51:10 2021 +0700
+
+    Merge pull request #18 from gieart87/feature/18-home-page-theme
+    
+    applied the home page theme
+
+[33mcommit 7002cf2535f504b8c758703270d1e59981ca737b[m
+Merge: 3d3a51c 6b5a19e
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sat Feb 6 07:49:02 2021 +0700
+
+    Merge pull request #17 from GuxMartin/instructions
+    
+    Installation instructions
+
+[33mcommit 6b5a19eec5375a5df4901827186901e25bd4f2f6[m
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sat Feb 6 07:48:12 2021 +0700
+
+    Update README.md
+
+[33mcommit 9f63b2f5bd3f4076c06d2cc115420c594e0e211b[m[33m ([m[1;31morigin/feature/18-home-page-theme[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Sat Feb 6 06:13:34 2021 +0700
+
+    applied the home page theme
+
+[33mcommit d8ae61959764b2962acbe23a090d3135f0158b56[m
+Author: Gux <gusma62@gmail.com>
+Date:   Tue Jan 19 14:07:46 2021 -0600
+
+    Installation instructions
+
+[33mcommit 3d3a51ce0847a3ee17ba62f6bc766b2b826cf821[m
+Merge: 9f5185f f0faafb
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Wed Jan 20 01:11:41 2021 +0700
+
+    Merge pull request #16 from gieart87/feature/soft-delete
+    
+    added soft delete product and delete image
+
+[33mcommit f0faafb6c560c0a49b70f95cd98262e0c98679ac[m[33m ([m[1;31morigin/feature/soft-delete[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Wed Jan 20 01:10:54 2021 +0700
+
+    added soft delete product and delete image
+
+[33mcommit 9f5185f7342004cc49b059a9a9d540e11f0a2850[m
+Merge: f9c2fc7 3654409
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Wed Jan 6 14:26:16 2021 +0700
+
+    Merge pull request #15 from gieart87/feature/16-upload-resize-image
+    
+    added: upload and resize image featured
+
+[33mcommit 3654409ae5b411e40309c56a122a4a8f2a147306[m[33m ([m[1;31morigin/feature/16-upload-resize-image[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Wed Jan 6 14:24:51 2021 +0700
+
+    added: upload and resize image featured
+
+[33mcommit f9c2fc708b8adeafc75708ade7d56ce4d1d32898[m
+Merge: bfd9cf1 ed3c51d
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Fri Sep 18 13:23:45 2020 +0700
+
+    Merge pull request #14 from gieart87/feature/product-management-4-update-product
+    
+    added the update product feature
+
+[33mcommit ed3c51d23e105d66b8322913c20d361aef115fd4[m[33m ([m[1;31morigin/feature/product-management-4-update-product[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Fri Sep 18 13:23:08 2020 +0700
+
+    added the update product feature
+
+[33mcommit bfd9cf16fdf7ccbf30c3072d9c93faf27f363d38[m
+Merge: 18fede9 6794717
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Wed Sep 16 19:59:14 2020 +0700
+
+    Merge pull request #13 from gieart87/feature/product-management-3-create-product-variants
+    
+    generate and save the product variants into database
+
+[33mcommit 6794717bdd7e196de6ab1a23afd514e4c1142dfe[m[33m ([m[1;31morigin/feature/product-management-3-create-product-variants[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Wed Sep 16 19:57:21 2020 +0700
+
+    generate and save the product variants into database
+
+[33mcommit 18fede94de35f5a05313e4cf45e2a1f95e62813d[m
+Merge: b5a69fa f3c1f2a
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Wed Sep 9 00:43:47 2020 +0700
+
+    Merge pull request #12 from gieart87/feature/product-management-2-show-configurable-attributes
+    
+    added: show configurable attributes on create product form
+
+[33mcommit f3c1f2af1b2099a4673c485f58bb600a01f91131[m[33m ([m[1;31morigin/feature/product-management-2-show-configurable-attributes[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Wed Sep 9 00:21:32 2020 +0700
+
+    added: show configurable attributes on create product form
+
+[33mcommit b5a69fa9834ebf53da73f4b53d571f32de232b38[m
+Merge: 3f7e9e6 0576a0f
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Mon Aug 31 11:50:29 2020 +0700
+
+    Merge pull request #11 from gieart87/feature/product-management-1-add-simple-product
+    
+    added: product management - add simple product
+
+[33mcommit 0576a0fee4cb6802c8a66d2422cc8e7abecb75c0[m[33m ([m[1;31morigin/feature/product-management-1-add-simple-product[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Mon Aug 31 11:49:45 2020 +0700
+
+    added: product management - add simple product
+
+[33mcommit 3f7e9e6b15af573e1eb00949983043d8bfa58c99[m
+Merge: 74b8f19 7fd8d07
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sat Aug 29 22:57:02 2020 +0700
+
+    Merge pull request #10 from gieart87/feature/attribute-options-management
+    
+    added: attribute options route
+
+[33mcommit 7fd8d07da74ef1887cb7dbd4f91cd6d1d2e821d7[m[33m ([m[1;31morigin/feature/attribute-options-management[m[33m)[m
+Merge: c2fcbf9 74b8f19
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Sat Aug 29 22:56:40 2020 +0700
+
+    Merge branch 'master' of github.com:gieart87/ci4-cicommerce into feature/attribute-options-management
+    
+    # Conflicts:
+    #       app/Config/Routes.php
+
+[33mcommit c2fcbf992781dca1b27a44cef288c4a7b4a482c5[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Sat Aug 29 22:54:12 2020 +0700
+
+    added: attribute options route
+
+[33mcommit 74b8f1905d5f46938cb02e63293d5c7c673d12a2[m
+Merge: e278cb7 ae13848
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sat Aug 29 22:07:23 2020 +0700
+
+    Merge pull request #9 from gieart87/feature/brand-management
+    
+    added: brands management
+
+[33mcommit ae13848219f6cefa06df1ac329dd00d9e22ae855[m[33m ([m[1;31morigin/feature/brand-management[m[33m)[m
+Author: sugiarto <sugiarto@gie-art.com>
+Date:   Wed Aug 26 00:05:05 2020 +0700
+
+    added: brands management
+
+[33mcommit e278cb7ca7213581d218d8029280fb7454efaf23[m
+Merge: 7d09ad2 56769cf
+Author: Sugiarto <sugiarto.dlingo@gmail.com>
+Date:   Sun Aug 23 00:48:17 2020 +0700
+
+ 
