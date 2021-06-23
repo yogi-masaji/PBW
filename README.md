@@ -4,8 +4,8 @@
 ## Installation instructions
 
 ```
-git clone https://github.com/gieart87/ci4-cicommerce.git
-cd ci4-cicommerce/
+git clone https://github.com/yogi-masaji/PBW.git
+cd PBW/
 composer install
 cp env .env
 (Manualy create a database)
